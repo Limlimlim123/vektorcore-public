@@ -17,7 +17,11 @@ VektorCore 目前仍处于早期阶段，功能、交互和生成质量都在持
 
 Project Status
 
-MVP in development — September 2026**
+MVP in development — September 2026
+
+Current focus
+
+Improving generation quality and preparing the first MVP release.
 
 尚未正式公开发布。
 
